@@ -16,6 +16,10 @@ namespace Dados
             DataNasc = datanasc;
             Cpf = cpf;
         }
+        public string Sacar(){
+            return "";
+        }
+
 
 
 
