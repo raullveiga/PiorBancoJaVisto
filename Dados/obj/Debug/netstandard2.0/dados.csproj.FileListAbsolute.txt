@@ -1,0 +1,8 @@
+c:\~~\backend\banco\Dados\bin\Debug\netstandard2.0\dados.deps.json
+c:\~~\backend\banco\Dados\bin\Debug\netstandard2.0\dados.dll
+c:\~~\backend\banco\Dados\bin\Debug\netstandard2.0\dados.pdb
+c:\~~\backend\banco\Dados\obj\Debug\netstandard2.0\dados.csproj.CoreCompileInputs.cache
+c:\~~\backend\banco\Dados\obj\Debug\netstandard2.0\dados.AssemblyInfoInputs.cache
+c:\~~\backend\banco\Dados\obj\Debug\netstandard2.0\dados.AssemblyInfo.cs
+c:\~~\backend\banco\Dados\obj\Debug\netstandard2.0\dados.dll
+c:\~~\backend\banco\Dados\obj\Debug\netstandard2.0\dados.pdb
