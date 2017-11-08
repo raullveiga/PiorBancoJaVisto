@@ -1,4 +1,5 @@
 using System;
+using NetOffice.ExcelApi;
 
 namespace Dados{
     public class Conta{
